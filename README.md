@@ -16,3 +16,4 @@ Consideraciones:
         Mostrar el total de horas con totalTime, en caso que no existan cursos se debe mostrar un mensaje indicandolo.
 
 Recursos Webs: Bootstrap 5, vue@2.6.14, Html 5, Java Script, Imagenes de Vue
+![views-vue-tarcker](https://user-images.githubusercontent.com/44087262/149050986-2c47ffbc-1e25-4b02-8f7c-26f5fe85f1b9.jpg)
