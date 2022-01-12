@@ -1,0 +1,36 @@
+.lawrencium-dark {
+    background: #0f0c29;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #24243e, #302b63, #0f0c29);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #24243e, #302b63, #0f0c29); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */    
+}
+.lawrencium-light {
+    background: #c8c4ed;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #c2c2d6, seagreen, #c8c4ed);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #c2c2d6, seagreen, #c8c4ed); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */    
+}
+
+.wc-white{
+    color: #fff;
+}
+
+.font-platzi{
+    font-family: 'ABeeZee', sans-serif;
+}
+
+.logo-platzi{
+    width: 25%;
+}
+.wc-button{
+    color: #03091e;
+    background: linear-gradient(87deg,#95ca3e,#85c638);
+}
+.red {
+    color: tomato;
+  }
+span {
+    cursor: pointer;
+}
+a {
+    color: inherit;
+    text-decoration: none;
+  }
